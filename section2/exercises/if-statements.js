@@ -49,7 +49,7 @@ if (dogAge <= 2) {
   console.log("This dog is elderly!");
 } else {
   console.log("This dog is an adult!");
-}
+};
 
 
 
@@ -78,7 +78,7 @@ if (numQuarters >= 2) {
   console.log("I have enough money for a gumball");
 } else {
   console.log("I don't have enough money for a gumball");
-}
+};
 
 
 /*
@@ -101,7 +101,7 @@ if (cupsOfFlour >= 2 && hasSauce) {
   console.log("I have the ingredients to make a pizza");
 } else {
   console.log("I don't have the ingredients to make a pizza");
-}
+};
 
 
 

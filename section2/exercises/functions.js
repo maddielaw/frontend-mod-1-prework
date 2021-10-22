@@ -29,7 +29,7 @@ printName();
 
 function sayHello() {
   console.log("Oh, Hello!");
-}
+};
 
 sayHello();
 sayHello();
@@ -43,13 +43,9 @@ sayHello();
 // The function should print out the value of the String that was passed in.
 // Then, call the function 3 times, each time, passing it a different name.
 
-// var myName = "Maddie";
-// var brotherName = "Tyler";
-// var sisterName = "McKinley";
-
 function greetMe(name) {
   console.log(name);
-}
+};
 
 greetMe("Maddie");
 greetMe("Tyler");
@@ -62,7 +58,7 @@ greetMe("McKinley");
 
 function numSum(num1, num2) {
   console.log(num1 + num2);
-}
+};
 
 numSum(42, 76);
 numSum(2, 3);
@@ -75,7 +71,7 @@ numSum(85, 154);
 
 function pieceTogether(bigAnimal, smallAnimal) {
   console.log("The " + bigAnimal + " is much, much larger then the " + smallAnimal + ".");
-}
+};
 
 pieceTogether("elephant", "mouse");
 
