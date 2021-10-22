@@ -48,7 +48,7 @@ console.log(animals[0]);
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
 
-var foods = ["Pancakes", "Waffles", "Bacon","Eggs"];
+var foods = ["Pancakes", "Waffles", "Bacon", "Eggs"];
 
 // YOU DO: Write code below that will log the number of elements in the array of
 // foods from above.
@@ -140,7 +140,7 @@ if (percentBatteryLeft >= 15 && hasCharger === true && chargerType === "car") {
 } else {
 // This code will execute the below string and log it to the console if the first condition is false.
   console.log("I can't call an Uber.");
-}
+};
 
 // YOU DO - ANNOTATE: Above each line of your code for this if statement, create a comment.
 // That comment should describe, in your own words, and as technically precise as possible,

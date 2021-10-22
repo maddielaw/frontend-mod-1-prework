@@ -14,14 +14,14 @@ var animals = ["Zebra", "Giraffe", "Elephant"];
 
 for (var i = 0; i < animals.length; i++) {
   console.log(animals[i]);
-}
+};
 
 // YOU DO: Write code below that iterates through a list of animals and prints "The
 // <animal> is awesome!" for each animal.
 
 for (var i = 0; i < animals.length; i++){
   console.log("The " + animals[i] + " is awesome!");
-}
+};
 
 // YOU DO: Create an array of foods and then iterate over that array to log "Add
 // <food> to shopping list" for each food item.
@@ -30,7 +30,7 @@ var foods = ["milk", "eggs", "bananas", "spinach"];
 
 for (var i = 0; i < foods.length; i++){
   console.log("Add " + foods[i] + " to shopping list.");
-}
+};
 
 // YOU DO: Create an array of numbers and then iterate over that array to log double
 // of each of the number. (Ex: 4 doubled is 8.)
@@ -39,7 +39,7 @@ var numbers = [2, 8, 12, 20];
 
 for (var i = 0; i < numbers.length; i++){
   console.log(numbers[i] * 2);
-}
+};
 
 
 // YOU DO: Using the array of names below, print out "Happy Birthday <name>" for
@@ -48,7 +48,7 @@ var names = ["Sevy", "Lindsey", "Jericho", "Raeonna", "Latrina", "Jhana", "Luca"
 
 for (var i = 2; i < 7; i++){
   console.log("Happy Birthday, " + names[i]);
-}
+};
 
 // THE FINAL YOU DO: Using the array of ages below, print out a statement for each age.
 // The age should determine which message is printed out:
@@ -68,4 +68,4 @@ for (var i = 0; i < 10; i++){
   } else {
     console.log("Make sure you get out and vote!")
   }
-}
+};

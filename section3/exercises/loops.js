@@ -15,12 +15,12 @@ Make sure to run the file with node in your command line.
 // EXAMPLE: Write code that logs to the console "I love hedgehogs!" 9 times:
 for (var i = 0; i < 9; i++) {
   console.log("I love hedgehogs!");
-}
+};
 
 // EXAMPLE: Write code that logs to the console the value of `i`, 3 times:
 for (var i = 0; i < 3; i++) {
   console.log(i);
-}
+};
 
 // What is logged to the console for this second example? Why?
 // EXPLAIN: 0, 1, and 2 are logged to the console for the second example. This is because i
@@ -33,14 +33,14 @@ for (var i = 0; i < 3; i++) {
 
 for (var i = 0; i < 7; i++) {
   console.log(2 + 2);
-}
+};
 
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
 
 for (var i = 0; i < 10; i++) {
   console.log("She sells seashells down by the seashore");
-}
+};
 
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
@@ -51,7 +51,7 @@ for (var i = 0; i < 10; i++) {
 
 for (var i = 0; i < 5; i++) {
   console.log("This is a loop number: " + i);
-}
+};
 
 // YOU DO: Using a for loop, how could you get an output that looks like this:
 
@@ -73,7 +73,7 @@ for (var i = 0; i < 5; i++) {
 
 for (var i = 10; i >= 1; i--) {
   console.log(i);
-}
+};
 
 // Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend
 // more than 15 minutes without making progress. If you are at 15 minutes and haven't made
