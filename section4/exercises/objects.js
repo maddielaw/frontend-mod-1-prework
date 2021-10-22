@@ -17,6 +17,7 @@ var foods = {
 };
 
 console.log(foods);
+
 // Notice that the variable name is foods, plural, because it has the ability to hold info about
 // potentially many foods. That plural name indicates to another developer that the variable stores
 // either an Array or an Object.
@@ -76,7 +77,7 @@ var emailAttributes = {
   subject: "Vacation ideas",
   attachment: true,
   timeStamp: "09:00 October 18, 2021"
-}
+};
 
 console.log(emailAttributes);
 
@@ -114,7 +115,7 @@ var posts = [
     numberLikes: 13,
     comments: []
   }
-]
+];
 
 console.log(posts);
 console.log(posts[0]);
@@ -153,6 +154,6 @@ var emailAttributes2 = [
     attachment: true,
     timeStamp: "16:30 June 17, 2005"
   }
-]
+];
 
 console.log(emailAttributes2);

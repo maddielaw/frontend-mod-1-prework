@@ -19,7 +19,7 @@ Make sure to run the file with node in your command line.
 
 class Dog {
 
-}
+};
 
 var husky = new Dog();
 var poodle = new Dog();
@@ -31,7 +31,7 @@ console.log(poodle);
 
 class Snack {
 
-}
+};
 
 var celeryBoats = new Snack();
 var nachos = new Snack();
@@ -43,7 +43,7 @@ console.log(nachos);
 
 class SummerShirt {
 
-}
+};
 
 var shortSleeve = new SummerShirt();
 var tankTop = new SummerShirt();
@@ -71,7 +71,7 @@ class DogBreed {
     this.gender = "female"
     this.weight = 51
   }
-}
+};
 
 var husky = new DogBreed();
 console.log(husky);
@@ -84,7 +84,8 @@ class KidSnack {
     this.time = "afternoon"
     this.ingredients = 3
   }
-}
+};
+
  var celeryBoat = new KidSnack();
  console.log(celeryBoat);
 
@@ -96,7 +97,8 @@ class WorkShirt {
     this.size = "medium"
     this.color = "burnt sienna"
   }
-}
+};
+
 var buttonUp = new WorkShirt();
 console.log(buttonUp);
 
@@ -115,12 +117,12 @@ console.log(buttonUp);
 // Prompt 1: Dog
 
 class DogHealth {
-  constructor(weight, energy, temp) {
+  constructor(weight, energy, temp){
     this.weight = weight;
     this.energy = energy;
     this.temperature = temp;
   }
-}
+};
 
 var husky = new DogHealth(142, "Low", 104);
 console.log(husky);
@@ -129,12 +131,13 @@ console.log(husky);
 // Prompt 2: Snack
 
 class SchoolSnack {
-  constructor(healthy, day, numIngredients) {
+  constructor(healthy, day, numIngredients){
     this.healthy = healthy;
     this.day = day;
     this.numIngredients = numIngredients;
   }
-}
+};
+
 var celeryBoat = new SchoolSnack(true, "Tuesday", 3);
 console.log(celeryBoat);
 
@@ -146,6 +149,7 @@ class Shirt {
     this.season = season;
     this.environment = environment;
   }
-}
+};
+
 var blouse = new Shirt("Purple", "Winter", "Work Casual");
 console.log(blouse);

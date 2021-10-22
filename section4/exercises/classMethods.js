@@ -33,11 +33,9 @@ class Burrito {
     this.base = base;
     this.toppings = toppings;
   }
-
   changeProtein() {
     this.protein = "carnitas"
   }
-
   addTopping() {
     this.toppings.push("sour cream");
   }
