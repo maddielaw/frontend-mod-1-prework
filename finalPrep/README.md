@@ -38,17 +38,17 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 - [X] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [X] [Add link to your gist here](https://gist.github.com/maddielaw/0745cd897832a2ea1a51ed5cfaadb2be)
+  - [X] [My Mentorship DTR Prep](https://gist.github.com/maddielaw/0745cd897832a2ea1a51ed5cfaadb2be)
 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [X] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [X] [Add a link to your gist here](https://gist.github.com/maddielaw/c40eb24e04eaf7c7bb8ec01b8d6a0373)
+  - [X] [My Pre Teaching Practice](https://gist.github.com/maddielaw/c40eb24e04eaf7c7bb8ec01b8d6a0373)
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 - [X] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [X] [Add a link to your gist here](https://gist.github.com/maddielaw/8ab0493a69f4ed06e6c3f1ae2951e8c9)
+  - [X] [My DTR Guiding Questions](https://gist.github.com/maddielaw/8ab0493a69f4ed06e6c3f1ae2951e8c9)
 
 ## All Done? How to Submit your M1 Prework
 When you have completed *ALL* the activities described above, follow the steps below to submit your technical prework.
