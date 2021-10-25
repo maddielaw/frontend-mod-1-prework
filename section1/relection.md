@@ -41,6 +41,6 @@ On my Wells Fargo banking app, when I login the screen will read "Good evening/m
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
-..* Regarding concatenation vs interpolation, I'm not certain if I'm grasping what the benefit of concatenation would be or why it would be used over interpolation. It seems as if interpolation is quicker, and overall easier to read.
+* Regarding concatenation vs interpolation, I'm not certain if I'm grasping what the benefit of concatenation would be or why it would be used over interpolation. It seems as if interpolation is quicker, and overall easier to read.
 
-..* Are there other data types that Javascript consists of aside from the three introduced in this section?
+* Are there other data types that Javascript consists of aside from the three introduced in this section?
