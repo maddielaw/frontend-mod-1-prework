@@ -9,9 +9,9 @@ I think something I'd add that I value in myself as a learner would be curiosity
 2. What are the data types you learned about in this section? In your own words, define each.
 
 The three data types I learned about in this section are:
-..* String: A data type that consists of letter or other characters inside quotes. Strings can work with all kinds of text (even numbers and special characters).
-..* Number: A data type that handles all numbers including negatives and decimals. Math can be performed on this data type.
-..* Boolean: A data type that evaluates to either true or false.
+* String: A data type that consists of letter or other characters inside quotes. Strings can work with all kinds of text (even numbers and special characters).
+* Number: A data type that handles all numbers including negatives and decimals. Math can be performed on this data type.
+* Boolean: A data type that evaluates to either true or false.
 
 3. How would you log the string `"Hello World!"` to the console?
 
