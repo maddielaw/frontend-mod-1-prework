@@ -36,8 +36,8 @@ class Burrito {
   changeProtein() {
     this.protein = "carnitas"
   }
-  addTopping() {
-    this.toppings.push("sour cream");
+  addTopping(newTopping) {
+    this.toppings.push(newTopping);
   }
 };
 
@@ -53,8 +53,8 @@ console.log(burritoC);
 burritoB.changeProtein();
 console.log(burritoB);
 
-burritoC.addTopping();
+burritoC.addTopping("sour cream");
 console.log(burritoC);
 
-burritoA.addTopping();
+burritoA.addTopping("lettuce");
 console.log(burritoA);
